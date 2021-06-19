@@ -10,4 +10,4 @@ The PROTOTYPE Module runs "raw" code (Javascript, in this case). It is prudent, 
 
 I'm not sure what you need from me to qualify as a "patch artist you trust," but here's this: My name is Paul Pomeroy. I've been involved with the VCV community for a few years now (since March of 2018). You can find me in the VCV Rack Official User Group on Facebook (https://www.facebook.com/groups/122795801713906/user/1047045786) and on PatchStorage (https://patchstorage.com/author/paulpomeroy/). I was also "featured" in Omri Cohen's first "patch dissection" video back in August of 2019 (https://youtu.be/sSo8FHeoMwA). I've also posted VCV-realted videos on my YouTube channel (https://www.youtube.com/channel/UCCwydBkWZsaxO7tT5GFzYyA).
 
-The code and patches listed on my GitHub page for *That Rhythm Thing* (https://github.com/PaulPomeroy/that-rhythm-thing) are written by me and are safe.
+The code and patches listed on (and downloaded from) my GitHub page for *That Rhythm Thing* (https://github.com/PaulPomeroy/that-rhythm-thing) are written by me and are safe.
